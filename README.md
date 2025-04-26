@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Pratik Kumar Jha 👋
+Aspiring Data Analyst | Business Analyst | SQL | Excel | Power BI | Python Basics
+About Me
+I'm a passionate and detail-oriented Data Analyst in the making, with strong skills in data management, analysis, and visualization. I enjoy uncovering insights that help drive business decisions. Currently looking for opportunities to apply and grow my skills in real-world projects!
 
-<!--
-**pratik071103/pratik071103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+SQL: Writing queries, data extraction, joins,complex joins, aggregations, subqueries
 
-Here are some ideas to get you started:
+Excel: Data cleaning, pivot tables, charts, dashboards, VLOOKUP, formulas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Power BI: Building interactive dashboards, data modeling, DAX, Power query
+
+Python (Basic): Pandas, Matplotlib, Seaborn, numpy for data analysis and visualization
+
+Projects
+(Click to view repositories)
+
+
+Tools & Technologies
+
+Let's Connect
+📫 Email: pratik071103@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/pratik-kumar-jha-5509742b0
+
+"Turning raw data into meaningful insights!" 🌟
+
+
 -->
