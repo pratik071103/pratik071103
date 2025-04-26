@@ -20,6 +20,7 @@ Tools & Technologies
 
 Let's Connect
 📫 Email: pratik071103@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/pratik-kumar-jha-5509742b0
 
 "Turning raw data into meaningful insights!" 🌟
